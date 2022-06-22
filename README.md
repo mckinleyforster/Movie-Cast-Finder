@@ -1,8 +1,6 @@
 # Movie & Cast Finder
 This is a CRUD app that uses and active search component to find the cast list and movie poster based on the users input.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
 ![alt tag](CoverImage.jpg)
 
 ## How It's Made:
