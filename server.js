@@ -39,7 +39,8 @@ app.get("/search", async (request,response) => {
                 }
             }
         ]).toArray()
-        //console.log(result)
+        // console.log(result)
+        // console.log(request)
         response.send(result)
     } catch (error) {
         response.status(500).send({message: error.message})
