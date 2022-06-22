@@ -1,9 +1,9 @@
-# My Awesome Project
+# Movie & Cast Finder
 This is a CRUD app that uses and active search component to find the cast list and movie poster based on the users input.
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](CoverImage.jpg)
 
 ## How It's Made:
 
@@ -17,5 +17,3 @@ To optimize the search functionality of this CRUB app, the MongoDB cluster inclu
 ## Lessons Learned:
 
 On this project, I learned how best to utilize the index functionality of MongoDB to optimize the autocomplete search the CRUD app offers. 
-
-

@@ -37,6 +37,9 @@ app.get("/search", async (request,response) => {
                         }
                     }
                 }
+            },
+            {
+                $limit: 10
             }
         ]).toArray()
         // console.log(result)
